@@ -18,6 +18,8 @@ class GroceryTracker:
         self.purchases = []
         self.remaining_budget = 0.0
 
+        
+
 
 def get_user_budget() -> float:
     """Get and validate the user's total grocery budget."""
