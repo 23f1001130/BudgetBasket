@@ -1,6 +1,6 @@
 # SmartGrocery – A Smart Budgeting Grocery Assistant
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <[URL HERE](https://www.youtube.com/watch?v=Gfta35sluH0)>
 
 #### Description:
 
